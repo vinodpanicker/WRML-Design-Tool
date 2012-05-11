@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<projectSuggestions>
+<declaringtype type="com.wrml.TestAddingNewWebResourceTests">
+<method isActive="true" isStatic="false" name="testLogin" type="java.lang.String">
+<parameters useNamedArguments="false"/>
+<doc/>
+</method>
+<method isActive="true" isStatic="false" name="testLogin" type="java.lang.String">
+<parameters useNamedArguments="false">
+<parameter name="login" type="org.codehaus.groovy.grails.commons.GrailsControllerClass"/>
+</parameters>
+<doc/>
+</method>
+</declaringtype>
+</projectSuggestions>
